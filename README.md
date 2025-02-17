@@ -2,9 +2,6 @@
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi-sonkar&label=Profile%20views&color=0e75b6&style=flat" alt="mahi-sonkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi-sonkar" alt="mahi-sonkar" /></a> </p>
-
 - 🔭 I’m currently working on **PYTHON, JAVA, C**
 
 - 📫 How to reach me **sonkargolu4545@gmail.com**
